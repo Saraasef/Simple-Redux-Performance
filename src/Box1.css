@@ -1,0 +1,13 @@
+.myBox{
+    display: inline-block;
+    width: 400px;
+    height: auto;
+    background-color: rgb(204, 149, 255);
+    margin: 50px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.Shoes{
+    height: 50%;
+    width:  50%;
+}
